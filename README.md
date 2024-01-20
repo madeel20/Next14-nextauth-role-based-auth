@@ -1,0 +1,1 @@
+Next 14 boilerplate for Role based authentication with NextAuth
